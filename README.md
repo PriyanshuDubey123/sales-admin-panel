@@ -58,7 +58,7 @@ Make sure you have the following installed on your system:
 
 1. **Clone the repository**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/PriyanshuDubey123/sales-admin-panel.git
    cd sales-admin-panel
    ```
 
